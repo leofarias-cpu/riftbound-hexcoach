@@ -33,11 +33,11 @@ Source plan: [The Plan.md](The%20Plan.md). Nothing has been implemented yet.
 
   MainDeck:
   3 Consult the Past
-  ...
+  <...>
 
   Battlefields:
   1 Ravenbloom Conservatory
-  ...
+  <...>
 
   Runes:
   6 Mind Rune
@@ -45,7 +45,7 @@ Source plan: [The Plan.md](The%20Plan.md). Nothing has been implemented yet.
 
   Sideboard:
   3 Salvage
-  ...
+  <...>
   ```
 - **Validation at import:** resolve each line to a real card (suggest fixes for unknown names) plus basic structural checks (section counts, copy limits) shown as warnings, not blocking. The numbers must be configurable constants filled in from the official rules. They are **not verified yet**.
 - Saved decklists are stored per account.
